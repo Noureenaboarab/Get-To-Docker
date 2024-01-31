@@ -1,0 +1,9 @@
+Q1. docker images
+Q2. docker create container
+    docker run alpine cat /etc/hostname
+Q3. docker pull ubuntu:noble
+Q4. docker run -d erseco/alpine-php-webserver
+    localhost:8080--> shows sign-in page
+Q5. docker run -p 55:8080 erseco/alpine-php-webserver
+Q7. docker stop 0fc794
+    docker rm 0fc794
